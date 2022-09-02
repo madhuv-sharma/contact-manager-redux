@@ -1,5 +1,6 @@
 {
-  "name": "contactmanager",
+  "homepage": "https://madhuv-sharma.github.io/contact-manager-redux",
+  "name": "contact-manager-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
